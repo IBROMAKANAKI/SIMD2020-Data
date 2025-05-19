@@ -2,7 +2,7 @@
 
 ## Visualise the distribution of SIMD2020V2CountryDecile values for 3 contrasting council areas.
 
-![Avg SIMD Rank](Image/Rank simd 2.jpg)
+![Avg SIMD Rank](asset/Image/Rank simd 2.jpg)
 
 🧾 Explanation:
 
@@ -17,9 +17,9 @@
 📊 Policy Implication:
 This kind of breakdown helps local authorities prioritize funding and social support, targeting the most deprived areas (like Glasgow City) with anti-poverty, education, and health access initiatives.
 
-![Glasgow City (Low)](Image/Glasgow City (Low).jpg)
+![Glasgow City (Low)](asset/Image/Glasgow City (Low).jpg)
 
-![West Lothian (Middle)](Image/West Lothian.jpg)
+![West Lothian (Middle)](asset/Image/West Lothian.jpg)
 
-![East Renfrewshire (high)](Image/East Renfrewshire (high).jpg)
+![East Renfrewshire (high)](asset/Image/East Renfrewshire (high).jpg)
 
