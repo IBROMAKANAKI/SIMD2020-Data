@@ -3,7 +3,7 @@
 
 ## Visualise the distribution of SIMD2020V2CountryDecile values for 3 contrasting council areas
 
-![Avg SIMD Rank](asset/Image/Rank simd 2.jpg)
+![Avg SIMD Rank](Image/rank-simd-2.jpg)
 
 ---
 
@@ -24,8 +24,8 @@ This reports will help the local authorities prioritize funding and social suppo
 
 ## 🔍 Council Area SIMD Decile Visuals
 
-![Glasgow City (Low)](images/glasgow-city-low.jpg)
+![Glasgow City (Low)](Image/glasgow-city-low.jpg)
 
-![West Lothian (Middle)](images/west-lothian.jpg)
+![West Lothian (Middle)](Image/west-lothian-middle.jpg)
 
-![East Renfrewshire (High)](images/east-renfrewshire-high.jpg)
+![East Renfrewshire (High)](Image/east-renfrewshire-high.jpg)
