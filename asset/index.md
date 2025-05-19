@@ -3,7 +3,7 @@
 
 ## Visualise the distribution of SIMD2020V2CountryDecile values for 3 contrasting council areas
 
-![Avg SIMD Rank](images/rank-simd-2.jpg)
+![Avg SIMD Rank](asset/Image/Rank simd 2.jpg)
 
 ---
 
