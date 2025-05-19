@@ -17,7 +17,7 @@
 ---
 
 ### 📊 Policy Implication:
-This kind of breakdown helps local authorities prioritize funding and social support, targeting the most deprived areas (like Glasgow City) with **anti-poverty**, **education**, and **health access** initiatives.
+This reports will help the local authorities prioritize funding and social support, targeting the most deprived areas (like Glasgow City) with **anti-poverty**, **education**, and **health access** initiatives.
 
 ---
 
